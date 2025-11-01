@@ -1,0 +1,11 @@
+C:\Users\0030482513042\source\repos\provaraissa\obj\Debug\provaraissa.csproj.AssemblyReference.cache
+C:\Users\0030482513042\source\repos\provaraissa\obj\Debug\provaraissa.Form1.resources
+C:\Users\0030482513042\source\repos\provaraissa\obj\Debug\provaraissa.Properties.Resources.resources
+C:\Users\0030482513042\source\repos\provaraissa\obj\Debug\provaraissa.csproj.GenerateResource.cache
+C:\Users\0030482513042\source\repos\provaraissa\obj\Debug\provaraissa.csproj.CoreCompileInputs.cache
+C:\Users\0030482513042\source\repos\provaraissa\bin\Debug\provaraissa.exe.config
+C:\Users\0030482513042\source\repos\provaraissa\bin\Debug\provaraissa.exe
+C:\Users\0030482513042\source\repos\provaraissa\bin\Debug\provaraissa.pdb
+C:\Users\0030482513042\source\repos\provaraissa\obj\Debug\provaraissa.exe
+C:\Users\0030482513042\source\repos\provaraissa\obj\Debug\provaraissa.pdb
+C:\Users\0030482513042\source\repos\provaraissa\obj\Debug\provaraissa.exe.config
